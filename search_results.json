@@ -1,0 +1,487 @@
+[
+  {
+    "image_path": "C:\\Users\\admin\\OneDrive\\Pictures\\dl\\download (1).jpeg",
+    "detections": [
+      {
+        "class": "person",
+        "confidence": 0.916181206703186,
+        "bbox": [
+          74.37942504882812,
+          31.580432891845703,
+          222.58656311035156,
+          183.1648712158203
+        ],
+        "count": 6
+      },
+      {
+        "class": "person",
+        "confidence": 0.9105467796325684,
+        "bbox": [
+          14.69092082977295,
+          16.561264038085938,
+          115.7756118774414,
+          178.46499633789062
+        ],
+        "count": 6
+      },
+      {
+        "class": "sports ball",
+        "confidence": 0.9076811671257019,
+        "bbox": [
+          84.91267395019531,
+          156.35305786132812,
+          109.47374725341797,
+          179.95831298828125
+        ],
+        "count": 1
+      },
+      {
+        "class": "person",
+        "confidence": 0.883912980556488,
+        "bbox": [
+          187.19683837890625,
+          8.956710815429688,
+          267.9036560058594,
+          177.64871215820312
+        ],
+        "count": 6
+      },
+      {
+        "class": "person",
+        "confidence": 0.6825182437896729,
+        "bbox": [
+          181.6926727294922,
+          3.3929638862609863,
+          211.5322265625,
+          142.64285278320312
+        ],
+        "count": 6
+      },
+      {
+        "class": "person",
+        "confidence": 0.43064379692077637,
+        "bbox": [
+          1.9970959424972534,
+          38.393272399902344,
+          26.627649307250977,
+          62.80533218383789
+        ],
+        "count": 6
+      },
+      {
+        "class": "person",
+        "confidence": 0.40573450922966003,
+        "bbox": [
+          88.2838363647461,
+          32.83846664428711,
+          109.8176498413086,
+          58.84197998046875
+        ],
+        "count": 6
+      }
+    ],
+    "total_objects": 7,
+    "unique_class": [
+      "person",
+      "sports ball"
+    ],
+    "class_counts": {
+      "person": 6,
+      "sports ball": 1
+    }
+  },
+  {
+    "image_path": "C:\\Users\\admin\\OneDrive\\Pictures\\dl\\download (2).jpeg",
+    "detections": [
+      {
+        "class": "person",
+        "confidence": 0.9344804883003235,
+        "bbox": [
+          8.049286842346191,
+          16.54389190673828,
+          294.4029541015625,
+          165.16497802734375
+        ],
+        "count": 2
+      },
+      {
+        "class": "person",
+        "confidence": 0.74344801902771,
+        "bbox": [
+          192.47348022460938,
+          63.36829376220703,
+          299.8453063964844,
+          166.14401245117188
+        ],
+        "count": 2
+      }
+    ],
+    "total_objects": 2,
+    "unique_class": [
+      "person"
+    ],
+    "class_counts": {
+      "person": 2
+    }
+  },
+  {
+    "image_path": "C:\\Users\\admin\\OneDrive\\Pictures\\dl\\download (4).jpeg",
+    "detections": [
+      {
+        "class": "person",
+        "confidence": 0.9162416458129883,
+        "bbox": [
+          27.469303131103516,
+          7.922402381896973,
+          216.16763305664062,
+          180.69198608398438
+        ],
+        "count": 2
+      },
+      {
+        "class": "person",
+        "confidence": 0.9137952923774719,
+        "bbox": [
+          108.64610290527344,
+          16.844318389892578,
+          230.09375,
+          180.40211486816406
+        ],
+        "count": 2
+      }
+    ],
+    "total_objects": 2,
+    "unique_class": [
+      "person"
+    ],
+    "class_counts": {
+      "person": 2
+    }
+  },
+  {
+    "image_path": "C:\\Users\\admin\\OneDrive\\Pictures\\dl\\download (5).jpeg",
+    "detections": [
+      {
+        "class": "person",
+        "confidence": 0.9239051342010498,
+        "bbox": [
+          103.6431655883789,
+          18.299596786499023,
+          239.40139770507812,
+          190.5084686279297
+        ],
+        "count": 2
+      },
+      {
+        "class": "person",
+        "confidence": 0.9128188490867615,
+        "bbox": [
+          26.45235824584961,
+          21.153718948364258,
+          165.89625549316406,
+          195.4637908935547
+        ],
+        "count": 2
+      },
+      {
+        "class": "sports ball",
+        "confidence": 0.8909900188446045,
+        "bbox": [
+          81.55756378173828,
+          170.46434020996094,
+          110.4018325805664,
+          196.38491821289062
+        ],
+        "count": 1
+      }
+    ],
+    "total_objects": 3,
+    "unique_class": [
+      "person",
+      "sports ball"
+    ],
+    "class_counts": {
+      "person": 2,
+      "sports ball": 1
+    }
+  },
+  {
+    "image_path": "C:\\Users\\admin\\OneDrive\\Pictures\\dl\\download (6).jpeg",
+    "detections": [
+      {
+        "class": "person",
+        "confidence": 0.9396751523017883,
+        "bbox": [
+          12.407782554626465,
+          14.273571968078613,
+          127.7801742553711,
+          192.6304168701172
+        ],
+        "count": 4
+      },
+      {
+        "class": "sports ball",
+        "confidence": 0.9299188256263733,
+        "bbox": [
+          170.66961669921875,
+          140.98196411132812,
+          200.18751525878906,
+          168.8664093017578
+        ],
+        "count": 1
+      },
+      {
+        "class": "person",
+        "confidence": 0.9283306002616882,
+        "bbox": [
+          127.95929718017578,
+          5.497912883758545,
+          242.66351318359375,
+          171.3164825439453
+        ],
+        "count": 4
+      },
+      {
+        "class": "person",
+        "confidence": 0.8675211668014526,
+        "bbox": [
+          0.05713820084929466,
+          27.96407699584961,
+          25.851150512695312,
+          135.378173828125
+        ],
+        "count": 4
+      },
+      {
+        "class": "person",
+        "confidence": 0.38072264194488525,
+        "bbox": [
+          95.8929443359375,
+          0.0,
+          123.66681671142578,
+          51.86435317993164
+        ],
+        "count": 4
+      }
+    ],
+    "total_objects": 5,
+    "unique_class": [
+      "person",
+      "sports ball"
+    ],
+    "class_counts": {
+      "person": 4,
+      "sports ball": 1
+    }
+  },
+  {
+    "image_path": "C:\\Users\\admin\\OneDrive\\Pictures\\dl\\download.jpeg",
+    "detections": [
+      {
+        "class": "person",
+        "confidence": 0.9114485383033752,
+        "bbox": [
+          95.15392303466797,
+          43.18893814086914,
+          204.06753540039062,
+          163.57513427734375
+        ],
+        "count": 4
+      },
+      {
+        "class": "person",
+        "confidence": 0.9097700715065002,
+        "bbox": [
+          17.071392059326172,
+          32.21992111206055,
+          68.47373962402344,
+          159.3866729736328
+        ],
+        "count": 4
+      },
+      {
+        "class": "person",
+        "confidence": 0.8862814903259277,
+        "bbox": [
+          184.0985870361328,
+          36.93350601196289,
+          238.83204650878906,
+          112.74266052246094
+        ],
+        "count": 4
+      },
+      {
+        "class": "person",
+        "confidence": 0.8818257451057434,
+        "bbox": [
+          0.0692758560180664,
+          30.472036361694336,
+          48.02839279174805,
+          168.3155059814453
+        ],
+        "count": 4
+      },
+      {
+        "class": "sports ball",
+        "confidence": 0.7250515222549438,
+        "bbox": [
+          208.60614013671875,
+          140.7991485595703,
+          225.58523559570312,
+          158.6998748779297
+        ],
+        "count": 1
+      }
+    ],
+    "total_objects": 5,
+    "unique_class": [
+      "person",
+      "sports ball"
+    ],
+    "class_counts": {
+      "person": 4,
+      "sports ball": 1
+    }
+  },
+  {
+    "image_path": "C:\\Users\\admin\\OneDrive\\Pictures\\dl\\images (1).jpeg",
+    "detections": [
+      {
+        "class": "person",
+        "confidence": 0.8822854161262512,
+        "bbox": [
+          8.293094635009766,
+          2.7757906913757324,
+          158.979736328125,
+          180.63043212890625
+        ],
+        "count": 3
+      },
+      {
+        "class": "person",
+        "confidence": 0.8785696625709534,
+        "bbox": [
+          151.05023193359375,
+          6.368063926696777,
+          267.6763610839844,
+          180.70834350585938
+        ],
+        "count": 3
+      },
+      {
+        "class": "baseball glove",
+        "confidence": 0.7138245105743408,
+        "bbox": [
+          132.7186279296875,
+          106.8722152709961,
+          160.29840087890625,
+          133.15618896484375
+        ],
+        "count": 1
+      },
+      {
+        "class": "sports ball",
+        "confidence": 0.6473104953765869,
+        "bbox": [
+          104.62748718261719,
+          140.41224670410156,
+          123.49046325683594,
+          149.6099853515625
+        ],
+        "count": 1
+      },
+      {
+        "class": "person",
+        "confidence": 0.5699043273925781,
+        "bbox": [
+          0.08418887853622437,
+          104.13018798828125,
+          36.01032257080078,
+          182.0443572998047
+        ],
+        "count": 3
+      }
+    ],
+    "total_objects": 5,
+    "unique_class": [
+      "person",
+      "baseball glove",
+      "sports ball"
+    ],
+    "class_counts": {
+      "person": 3,
+      "baseball glove": 1,
+      "sports ball": 1
+    }
+  },
+  {
+    "image_path": "C:\\Users\\admin\\OneDrive\\Pictures\\dl\\images (2).jpeg",
+    "detections": [
+      {
+        "class": "person",
+        "confidence": 0.9455819129943848,
+        "bbox": [
+          147.8726043701172,
+          7.47926139831543,
+          246.73680114746094,
+          163.13890075683594
+        ],
+        "count": 2
+      },
+      {
+        "class": "person",
+        "confidence": 0.9421361684799194,
+        "bbox": [
+          41.43069839477539,
+          18.599746704101562,
+          149.77317810058594,
+          175.67767333984375
+        ],
+        "count": 2
+      },
+      {
+        "class": "sports ball",
+        "confidence": 0.9240744113922119,
+        "bbox": [
+          112.06513977050781,
+          152.8934326171875,
+          137.33273315429688,
+          176.7982635498047
+        ],
+        "count": 1
+      }
+    ],
+    "total_objects": 3,
+    "unique_class": [
+      "person",
+      "sports ball"
+    ],
+    "class_counts": {
+      "person": 2,
+      "sports ball": 1
+    }
+  },
+  {
+    "image_path": "C:\\Users\\admin\\OneDrive\\Pictures\\dl\\images.jpeg",
+    "detections": [
+      {
+        "class": "person",
+        "confidence": 0.7330610156059265,
+        "bbox": [
+          32.161285400390625,
+          6.571158409118652,
+          177.0749969482422,
+          168.59909057617188
+        ],
+        "count": 1
+      }
+    ],
+    "total_objects": 1,
+    "unique_class": [
+      "person"
+    ],
+    "class_counts": {
+      "person": 1
+    }
+  }
+]
